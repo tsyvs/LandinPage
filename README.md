@@ -30,9 +30,13 @@ test **_bold italic_**
 
 [text of link](http://url-of-link)
 
+[link to H1](#landing-page-project--h1)
+
 `Alt` + `Shift` + `F`
 
 ```javascript
 var scroll = $(document.documentElement);
 var height = $("#intro").innerHeight() - 1;
 ```
+
+https://github.com/tsyvs/LandinPage#landing-page-project--h1
